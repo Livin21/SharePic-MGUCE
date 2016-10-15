@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharePic</string>
+    <string name="action_settings">Settings</string>
+    <string name="file_uri">file:///sdcard/temporary_file.jpg</string>
+</resources>
